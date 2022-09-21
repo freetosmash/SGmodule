@@ -1,5 +1,7 @@
+#!name= My Private Rule Set
+#!desc=
 
-
+[Rule]
 
 - DOMAIN-SUFFIX,synology.com,DIRECT
 - DOMAIN-KEYWORD,synology,DIRECT
