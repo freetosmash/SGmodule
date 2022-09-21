@@ -1,2 +1,6 @@
- - DOMAIN-KEYWORD,Synology,DIRECT
+#SYNOLOGY
+ 
+"Synology.com"
+"checkip.Synology.com"
+"ddns.Synology.com"
  
