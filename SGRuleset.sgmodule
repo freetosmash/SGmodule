@@ -1,6 +1,0 @@
-
-#!name= My Private Rule Set
-#!desc=
-
-[Rule]
-DOMAIN-SUFFIX,fangcloud.com, DIRECT
