@@ -2,6 +2,7 @@
 #!name= My Private Rule Set
 #!desc=
 
-[Section]
+
+[Rule]
 - domain-suffix,whatif-events.com, proxy
 - domain-suffix,fangcloud.com, DIRECT
