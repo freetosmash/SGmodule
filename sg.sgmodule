@@ -3,4 +3,5 @@
 #!desc=
 
 [Rule]
-DOMAIN-SUFFIX,fangcloud.com, DIRECT
+DOMAIN-SUFFIX,fangcloud.com,DIRECT
+DOMAIN-SUFFIX,whatif-events.com,PROXY
