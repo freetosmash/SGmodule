@@ -4,5 +4,5 @@
 
 
 [Rule]
-- domain-suffix,whatif-events.com, proxy
+
 - domain-suffix,fangcloud.com, DIRECT
