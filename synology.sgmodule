@@ -3,21 +3,21 @@
 
 [Rule]
 
-- DOMAIN-SUFFIX,synology.com,DIRECT
-- DOMAIN-KEYWORD,synology,DIRECT
-- DOMAIN-SUFFIX,dyndns.org,DIRECT
-- DOMAIN-SUFFIX,synocommunity.com,DIRECT
-- DOMAIN-SUFFIX,whatismyip.akamai.com,DIRECT 
-- DOMAIN-SUFFIX,digitalocean.com,DIRECT
-- DOMAIN,checkip.synology.com,DIRECT
-- DOMAIN,checkipv6.synology.com,DIRECT
-- DOMAIN,ddns.synology.com,DIRECT
-- DOMAIN-SUFFIX,ddns.synology.com,DIRECT
-- DOMAIN,account.synology.com,DIRECT
-- DOMAIN,checkport.synology.com,DIRECT
-- DOMAIN,identity.synology.com,DIRECT
-- DOMAIN,vod.d-net.tw,DIRECT
-- SRC-IP-CIDR,68.183.160.0/20,DIRECT
+DOMAIN-SUFFIX,synology.com,DIRECT
+DOMAIN-KEYWORD,synology,DIRECT
+DOMAIN-SUFFIX,dyndns.org,DIRECT
+DOMAIN-SUFFIX,synocommunity.com,DIRECT
+DOMAIN-SUFFIX,whatismyip.akamai.com,DIRECT 
+DOMAIN-SUFFIX,digitalocean.com,DIRECT
+DOMAIN,checkip.synology.com,DIRECT
+DOMAIN,checkipv6.synology.com,DIRECT
+DOMAIN,ddns.synology.com,DIRECT
+DOMAIN-SUFFIX,ddns.synology.com,DIRECT
+DOMAIN,account.synology.com,DIRECT
+DOMAIN,checkport.synology.com,DIRECT
+DOMAIN,identity.synology.com,DIRECT
+DOMAIN,vod.d-net.tw,DIRECT
+SRC-IP-CIDR,68.183.160.0/20,DIRECT
 IP-CIDR,54.192.18.23/32,DIRECT
 IP-CIDR,54.192.18.27/32,DIRECT
 IP-CIDR,54.192.18.29/32,DIRECT
