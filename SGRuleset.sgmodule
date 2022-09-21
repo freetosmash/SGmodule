@@ -1,0 +1,6 @@
+
+#!name= My Private Rule Set
+#!desc=
+
+[Rule]
+- domain-suffix,fangcloud.com, DIRECT
