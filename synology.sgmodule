@@ -46,7 +46,4 @@ IP-CIDR,54.223.206.219/32,DIRECT
 IP-CIDR,68.183.160.0/20,DIRECT
 - DOMAIN-KEYWORD,-synology,DIRECT
 ##在线IP段转CIDR地址：http://ip2cidr.com
-- DOMAIN-suffix, whatif-evnets.com,Proxy
-- DOMAIN-KEYWORD,-xiaomi,DIRECT
-- DOMAIN-SUFFIX,mi.com,DIRECT
-- DOMAIN-SUFFIX,myds.me,DIRECT
+
