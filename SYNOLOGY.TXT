@@ -1,6 +1,6 @@
 #SYNOLOGY
  
-"Synology.com"
+"+.Synology.com"
 "checkip.Synology.com"
 "ddns.Synology.com"
 "dyndns.org"
