@@ -3,4 +3,4 @@
 #!desc=
 
 [Rule]
-- domain-suffix,fangcloud.com, DIRECT
+- DOMAIN-SUFFIX,fangcloud.com, DIRECT
