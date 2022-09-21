@@ -4,4 +4,4 @@
 
 [Rule]
 DOMAIN-SUFFIX,fangcloud.com,DIRECT
-DOMAIN-SUFFIX,whatif-events.com,PROXY
+
