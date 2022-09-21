@@ -3,4 +3,12 @@
 "Synology.com"
 "checkip.Synology.com"
 "ddns.Synology.com"
- 
+"dyndns.org"
+"synocommunity.com"
+"whatismyip.akamai.com"
+"digitalocean.com"
+"checkipv6.synology.com"
+"account.synology.com"
+"checkport.synology.com"
+"dentity.synology.com"
+"vod.d-net.tw"
