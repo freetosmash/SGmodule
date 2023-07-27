@@ -197,6 +197,7 @@ DOMAIN-SUFFIX,events.statsigapi.net,OpenAI
 DOMAIN-SUFFIX,featuregates.org,OpenAI
 DOMAIN-SUFFIX,identrust.com,OpenAI
 DOMAIN-SUFFIX,stripe.com,OpenAI
+DOMAIN-SUFFIX,statsig.com,OpenAI
 USER-AGENT,RemotePlayer*,DIRECT
 IP-CIDR,18.253.27.128/32,DIRECT
 IP-CIDR,192.243.121.178/32,DIRECT
