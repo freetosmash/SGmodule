@@ -202,6 +202,7 @@ DOMAIN-SUFFIX,api.statsig.com,OpenAI
 DOMAIN-SUFFIX,browser-intake-datadoghq.com,OpenAI
 DOMAIN-SUFFIX,intercomassets.com,OpenAI
 DOMAIN-SUFFIX,api-ipv4.ip.sb,OpenAI
+DOMAIN-SUFFIX,api.ipify.org,OpenAI
 USER-AGENT,RemotePlayer*,DIRECT
 IP-CIDR,18.253.27.128/32,DIRECT
 IP-CIDR,192.243.121.178/32,DIRECT
