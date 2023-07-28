@@ -188,6 +188,7 @@ DOMAIN,openaiapi-site.azureedge.net,OpenAI
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,OpenAI
 DOMAIN,openaicomproductionae4b.blob.core.windows.net,OpenAI
 DOMAIN,production-openaicom-storage.azureedge.net,OpenAI
+DOMAIN-SUFFIX,ingest.sentry.io,Reject
 DOMAIN-SUFFIX,intercom.io,OpenAI
 DOMAIN-SUFFIX,intercomcdn.com,OpenAI
 DOMAIN-SUFFIX,auth0.com,OpenAI
