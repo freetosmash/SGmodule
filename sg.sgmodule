@@ -206,7 +206,6 @@ DOMAIN-SUFFIX,api.ipify.org,OpenAI
 DOMAIN-SUFFIX,cloudflareinsights.com,OpenAI
 DOMAIN-SUFFIX,gist-queue-consumer-api.cloud.gist.build,OpenAI
 DOMAIN-SUFFIX,owz3qoiija-dsn.algolia.net,OpenAI
-DOMAIN-SUFFIX,stripe.network,OpenAI
 USER-AGENT,RemotePlayer*,DIRECT
 IP-CIDR,18.253.27.128/32,DIRECT
 IP-CIDR,192.243.121.178/32,DIRECT
