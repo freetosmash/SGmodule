@@ -1,0 +1,32 @@
+#!name= My Private Rule Set
+#!desc=
+[Rule]
+# > ChatGPT
+DOMAIN-SUFFIX,ai.com,OpenAI
+DOMAIN-SUFFIX,openai.com,OpenAI
+# > Chat GPT API & CDN
+DOMAIN,chat.openai.com.cdn.cloudflare.net,OpenAI
+DOMAIN,openaiapi-site.azureedge.net,OpenAI
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,OpenAI
+DOMAIN,openaicomproductionae4b.blob.core.windows.net,OpenAI
+DOMAIN,production-openaicom-storage.azureedge.net,OpenAI
+DOMAIN-SUFFIX,ingest.sentry.io,Reject
+DOMAIN-SUFFIX,intercom.io,OpenAI
+DOMAIN-SUFFIX,intercomcdn.com,OpenAI
+DOMAIN-SUFFIX,auth0.com,OpenAI
+DOMAIN-SUFFIX,challenges.cloudflare.com,OpenAI
+DOMAIN-SUFFIX,client-api.arkoselabs.com,OpenAI
+DOMAIN-SUFFIX,events.statsigapi.net,OpenAI
+DOMAIN-SUFFIX,featuregates.org,OpenAI
+DOMAIN-SUFFIX,identrust.com,OpenAI
+DOMAIN-SUFFIX,stripe.com,OpenAI
+DOMAIN-SUFFIX,stripe.network,OpenAI
+DOMAIN-SUFFIX,statsig.com,OpenAI
+DOMAIN-SUFFIX,api.statsig.com,OpenAI
+DOMAIN-SUFFIX,browser-intake-datadoghq.com,OpenAI
+DOMAIN-SUFFIX,intercomassets.com,OpenAI
+DOMAIN-SUFFIX,api-ipv4.ip.sb,OpenAI
+DOMAIN-SUFFIX,api.ipify.org,OpenAI
+DOMAIN-SUFFIX,cloudflareinsights.com,OpenAI
+DOMAIN-SUFFIX,gist-queue-consumer-api.cloud.gist.build,OpenAI
+DOMAIN-SUFFIX,owz3qoiija-dsn.algolia.net,OpenAI
