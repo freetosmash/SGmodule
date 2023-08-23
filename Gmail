@@ -1,0 +1,5 @@
+#!name= gmail ruleset
+#!desc=
+
+[Rule]
+DOMAIN-SUFFIX,gmail.com,Auto - UrlTest
