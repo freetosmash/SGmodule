@@ -38,5 +38,5 @@ DOMAIN-SUFFIX,observeit.net,OpenAI
 DOMAIN-SUFFIX,poe.com,OpenAI
 DOMAIN-SUFFIX,segment.io,OpenAI
 DOMAIN-SUFFIX,sentry.io,OpenAI
-HOST-SUFFIX,stripe.com,OpenAI
+DOMAIN-SUFFIX,stripe.com,OpenAI
 DOMAIN-KEYWORD,openai,OpenAI
