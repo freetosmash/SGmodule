@@ -40,3 +40,4 @@ DOMAIN-SUFFIX,segment.io,OpenAI
 DOMAIN-SUFFIX,sentry.io,OpenAI
 DOMAIN-SUFFIX,stripe.com,OpenAI
 DOMAIN-KEYWORD,openai,OpenAI
+DOMAIN-suffix,auzre.com,DIRECT
