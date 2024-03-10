@@ -3,6 +3,7 @@
 [Rule]
 # > ChatGPT
 DOMAIN-SUFFIX,ai.com,OpenAI
+DOMAIN-SUFFIX,perplexity.ai,OpenAI
 DOMAIN-SUFFIX,openai.com,OpenAI
 # > Chat GPT API & CDN
 DOMAIN,chat.openai.com.cdn.cloudflare.net,OpenAI
