@@ -4,6 +4,7 @@
 
 [Rule]
 DOMAIN-SUFFIX,fangcloud.com,DIRECT
+DOMAIN-SUFFIX,sankuai.com,DIRECT
 DOMAIN-KEYWORD,meituan,DIRECT
 DOMAIN-SUFFIX,whatif-events.com,DIRECT
 DOMAIN-SUFFIX,myds.me,DIRECT
