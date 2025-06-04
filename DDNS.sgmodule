@@ -7,6 +7,8 @@ DOMAIN-KEYWORD,quickconnect,DIRECT
 DOMAIN-SUFFIX,checkip.dyndns.org,DIRECT
 DOMAIN-SUFFIX,checkipv6.dyndns.org,DIRECT
 DOMAIN-SUFFIX,checkip.synology.com,DIRECT
+DOMAIN-SUFFIX,synology.com,DIRECT
+DOMAIN-SUFFIX,ddns.synology.com,DIRECT
 DOMAIN-SUFFIX,ifconfig.co,DIRECT
 DOMAIN-SUFFIX,api.myip.com,DIRECT
 DOMAIN-SUFFIX,ip-api.com,DIRECT
