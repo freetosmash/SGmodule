@@ -2,46 +2,46 @@
 #!desc=
 [Rule]
 # > ChatGPT
-DOMAIN-SUFFIX,ai.com,AI Suite
-DOMAIN-SUFFIX,perplexity.ai,AI Suite
-DOMAIN-SUFFIX,openai.com,AI Suite
+DOMAIN-SUFFIX,ai.com,AI
+DOMAIN-SUFFIX,perplexity.ai,AI
+DOMAIN-SUFFIX,openai.com,AI
 # > Chat GPT API & CDN
-DOMAIN,chat.openai.com.cdn.cloudflare.net,AI Suite
-DOMAIN,openaiapi-site.azureedge.net,AI Suite
-DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,AI Suite
-DOMAIN,openaicomproductionae4b.blob.core.windows.net,AI Suite
-DOMAIN,production-openaicom-storage.azureedge.net,AI Suite
-DOMAIN-SUFFIX,ingest.sentry.io,AI Suite
-DOMAIN-SUFFIX,intercom.io,AI Suite
-DOMAIN-SUFFIX,intercomcdn.com,AI Suite
-DOMAIN-SUFFIX,auth0.com,AI Suite
-DOMAIN-SUFFIX,challenges.cloudflare.com,AI Suite
-DOMAIN-SUFFIX,client-api.arkoselabs.com,AI Suite
-DOMAIN-SUFFIX,events.statsigapi.net,AI Suite
-DOMAIN-SUFFIX,featuregates.org,AI Suite
-DOMAIN-SUFFIX,identrust.com,AI Suite
-DOMAIN-SUFFIX,oaistatic.com,AI Suite
-DOMAIN-SUFFIX,oaiusercontent.com,AI Suite
-DOMAIN-SUFFIX,stripe.com,AI Suite
-DOMAIN-SUFFIX,stripe.network,AI Suite
-DOMAIN-SUFFIX,statsig.com,AI Suite
-DOMAIN-SUFFIX,api.statsig.com,AI Suite
-DOMAIN-SUFFIX,browser-intake-datadoghq.com,AI Suite
-DOMAIN-SUFFIX,intercomassets.com,AI Suite
-DOMAIN-SUFFIX,api-ipv4.ip.sb,AI Suite
-DOMAIN-SUFFIX,api.ipify.org,AI Suite
-DOMAIN-SUFFIX,gist-queue-consumer-api.cloud.gist.build,AI Suite
-DOMAIN,chatgpt.livekit.cloud,AI Suite
-DOMAIN,static.cloudflareinsights.com,AI Suite
-DOMAIN-SUFFIX,algolia.net,AI Suite
-DOMAIN-SUFFIX,launchdarkly.com,AI Suite
-DOMAIN-SUFFIX,observeit.net,AI Suite
-DOMAIN-SUFFIX,poe.com,AI Suite
-DOMAIN-SUFFIX,segment.io,AI Suite
-DOMAIN-SUFFIX,sentry.io,AI Suite
-DOMAIN-SUFFIX,stripe.com,AI Suite
-DOMAIN-KEYWORD,openai,AI Suite
-DOMAIN-SUFFIX,claude.ai,AI Suite
-DOMAIN-SUFFIX,siftscience.com,AI Suite
-DOMAIN-SUFFIX,anthropic.com,AI Suite
+DOMAIN,chat.openai.com.cdn.cloudflare.net,AI
+DOMAIN,openaiapi-site.azureedge.net,AI
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,AI
+DOMAIN,openaicomproductionae4b.blob.core.windows.net,AI
+DOMAIN,production-openaicom-storage.azureedge.net,AI
+DOMAIN-SUFFIX,ingest.sentry.io,AI
+DOMAIN-SUFFIX,intercom.io,AI
+DOMAIN-SUFFIX,intercomcdn.com,AI
+DOMAIN-SUFFIX,auth0.com,AI
+DOMAIN-SUFFIX,challenges.cloudflare.com,AI
+DOMAIN-SUFFIX,client-api.arkoselabs.com,AI
+DOMAIN-SUFFIX,events.statsigapi.net,AI
+DOMAIN-SUFFIX,featuregates.org,AI
+DOMAIN-SUFFIX,identrust.com,AI
+DOMAIN-SUFFIX,oaistatic.com,AI
+DOMAIN-SUFFIX,oaiusercontent.com,AI
+DOMAIN-SUFFIX,stripe.com,AI
+DOMAIN-SUFFIX,stripe.network,AI
+DOMAIN-SUFFIX,statsig.com,AI
+DOMAIN-SUFFIX,api.statsig.com,AI
+DOMAIN-SUFFIX,browser-intake-datadoghq.com,AI
+DOMAIN-SUFFIX,intercomassets.com,AI
+DOMAIN-SUFFIX,api-ipv4.ip.sb,AI
+DOMAIN-SUFFIX,api.ipify.org,AI
+DOMAIN-SUFFIX,gist-queue-consumer-api.cloud.gist.build,AI
+DOMAIN,chatgpt.livekit.cloud,AI
+DOMAIN,static.cloudflareinsights.com,AI
+DOMAIN-SUFFIX,algolia.net,AI
+DOMAIN-SUFFIX,launchdarkly.com,AI
+DOMAIN-SUFFIX,observeit.net,AI
+DOMAIN-SUFFIX,poe.com,AI
+DOMAIN-SUFFIX,segment.io,AI
+DOMAIN-SUFFIX,sentry.io,AI
+DOMAIN-SUFFIX,stripe.com,AI
+DOMAIN-KEYWORD,openai,AI
+DOMAIN-SUFFIX,claude.ai,AI
+DOMAIN-SUFFIX,siftscience.com,AI
+DOMAIN-SUFFIX,anthropic.com,AI
 DOMAIN-SUFFIX,azure.com,DIRECT
