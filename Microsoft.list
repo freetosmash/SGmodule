@@ -1,0 +1,5 @@
+# > Microsoft
+
+[Rule]
+DOMAIN-KEYWORD,microsoft
+DOMAIN-SUFFIX,microsoft.com
