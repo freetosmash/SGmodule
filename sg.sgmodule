@@ -2,6 +2,7 @@
 #!desc=
 
 [Rule]
+PROCESS-NAME,WhatsApp,Proxy
 DOMAIN-SUFFIX,fangcloud.com,DIRECT
 DOMAIN-SUFFIX,sankuai.com,DIRECT
 DOMAIN-KEYWORD,meituan,DIRECT
